@@ -6,5 +6,9 @@
   "author": {
     "name": "Sharbyteprojects"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sharkbyteprojects/shark-logger.git"
+  },
   "license": "MIT"
 }
