@@ -1,0 +1,10 @@
+{
+  "name": "shark-logger",
+  "version": "0.0.1",
+  "description": "shark-logger logs things to a file or over UDP",
+  "main": "app.js",
+  "author": {
+    "name": "Sharbyteprojects"
+  },
+  "license": "MIT"
+}
