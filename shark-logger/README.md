@@ -3,7 +3,7 @@
 Example:
 ```
 
-const sharkevent = require("./app");
+const sharkevent = require("shark-logger-remote");
 
 const logger = new sharkevent("myapplication.log", ["ERR", "WARN", "INFO"], { port: 8080, host: "localhost" });
 
