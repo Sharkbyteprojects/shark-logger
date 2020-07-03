@@ -1,5 +1,5 @@
 {
-  "name": "shark-logger",
+  "name": "shark-logger-remote",
   "version": "0.0.1",
   "description": "shark-logger logs things to a file or over UDP",
   "main": "app.js",
